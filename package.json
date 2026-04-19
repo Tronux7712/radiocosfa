@@ -1,0 +1,14 @@
+{
+  "name": "cosfaweb-backend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Backend de chat cifrado para Radio Cosfa",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2",
+    "helmet": "^8.1.0"
+  }
+}
